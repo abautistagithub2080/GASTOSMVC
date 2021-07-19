@@ -17,7 +17,6 @@ namespace GASTOSMVC.Controllers
             string WIDUsr = Request.Cookies["IDUsr"].Value;
             oCatGasto.LCBXGastos = oCBX.FNLLenaCombo("Gastos", "IDGastos", "SP_CatGastos", "@IDUsr", WIDUsr);
             oCBX = null;
-
             return View(oCatGasto);
         }
         [HttpPost]
