@@ -71,7 +71,6 @@ D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\bin\es\System.Web.Webpages.Deployment
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\bin\es\System.Web.Webpages.Razor.resources.dll
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\bin\es\System.Web.Helpers.resources.dll
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\bin\es\System.Web.Mvc.resources.dll
-D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\obj\Release\GASTOSMVC.csprojAssemblyReference.cache
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\obj\Release\GASTOSMVC.csproj.CoreCompileInputs.cache
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\obj\Release\GASTOSMVC.csproj.CopyComplete
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\obj\Release\GASTOSMVC.dll
@@ -82,3 +81,4 @@ D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\bin\Microsoft.ReportViewer.Processing
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\bin\Microsoft.SqlServer.Types.dll
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\obj\Release\RdlCompile.cache
 D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\obj\Release\RdlCompile.compiled
+D:\MisDoc\Proyectos\CS-AppWebMVC\GASTOSMVC\obj\Release\GASTOSMVC.csproj.AssemblyReference.cache

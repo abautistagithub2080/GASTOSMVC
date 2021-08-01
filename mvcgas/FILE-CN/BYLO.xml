@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <Pass>
-    <Contra Ver="0001">Initial Catalog=GASTOS;Data Source=174.136.25.205; User Id=usrmvcgas;Password=7o*H3ug9;</Contra>
+    <Contra Ver="0001">Initial Catalog=GASTOS;Data Source=DESKTOP-1RILPCG\SQLEXPRESS; User Id=sa;Password=12345;</Contra>
     <EsSERVER Ver="0001">0</EsSERVER>
 </Pass> 

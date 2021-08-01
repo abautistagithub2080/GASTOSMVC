@@ -5,6 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>D:\MisDoc\FTP\PRUEBA_GUS_FTP\MVCGAS</_PublishTargetUrl>
+    <History>True|2021-07-31T18:56:56.5454802Z;True|2021-07-31T13:42:01.7337857-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/es/System.Web.Helpers.resources.dll">
@@ -26,10 +27,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/28/2018 12:04:36</publishTime>
     </File>
     <File Include="bin/GASTOSMVC.dll">
-      <publishTime>04/04/2021 22:50:27</publishTime>
+      <publishTime>07/31/2021 13:56:53</publishTime>
     </File>
     <File Include="bin/GASTOSMVC.pdb">
-      <publishTime>04/04/2021 22:50:27</publishTime>
+      <publishTime>07/31/2021 13:56:53</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>09/05/2018 16:10:50</publishTime>
@@ -359,7 +360,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/04/2021 12:10:22</publishTime>
     </File>
     <File Include="Views/ROT/Index.cshtml">
-      <publishTime>03/12/2021 20:24:48</publishTime>
+      <publishTime>06/26/2021 23:22:16</publishTime>
     </File>
     <File Include="Views/Transaccion/Index.cshtml">
       <publishTime>04/03/2021 20:50:47</publishTime>
