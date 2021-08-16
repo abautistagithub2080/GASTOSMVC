@@ -27,6 +27,9 @@ GO
 INSERT INTO CatUsuario(Nombre,Paterno, Materno, Usuario, Password) VALUES ('Armando', 'Bautista', 'Bautista', '0DCE0C980C1C', '05EF060E062D064C066B');
 GO
 
+
+--0DCE0C980C1C| 05EF060E062D064C066B
+
 CREATE PROCEDURE spGetUsuario @Usuario nvarchar(255), @Contra nvarchar(255)
 AS
 SELECT * FROM CatUsuario WHERE Usuario=@Usuario AND Password=@Contra
